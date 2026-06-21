@@ -11,14 +11,6 @@ An interactive Rubik's Cube simulator and solver built with Three.js and browser
 - Adjustable cube size and scramble settings through URL query parameters.
 - Mobile-aware UI adjustments for smaller screens.
 
-## Controls
-
-- `SOLVE` starts the solving flow.
-- `Prev` and `Next` step through the solution.
-- `Play/Pause` animates the solution sequence.
-- `Reset` reloads the page and restores the current cube state.
-- The color palette is used to paint faces in edit mode.
-
 ## Project Structure
 
 - `index.html` is the browser entry point.
